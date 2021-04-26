@@ -1,2 +1,2 @@
-# C77Project
-BarterApp2
+# barter-app-stage-1
+Login and SignUp
